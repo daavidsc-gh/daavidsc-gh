@@ -38,4 +38,13 @@
 
 * 🔭 **Objetivo:** Busco mi primera oportunidad como Desarrollador Full Stack (Prácticas FCT).
 * 🔧 **Mi Superpoder:** Gracias a mi base en **ASIR**, no solo sé programar la web, sino también desplegar el servidor y arreglarlo si falla.
-* 🤝 **Filosofía:** Me encanta el trabajo en equipo y entender
+* 🤝 **Filosofía:** Me encanta el trabajo en equipo y entender el "por qué" de las cosas.
+
+---
+
+### 📫 Contacto
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/dscandil)
+* 📧 david.dosmiltres@gmail.com
+
+---
