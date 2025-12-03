@@ -29,14 +29,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 </p>
 
 ---
 
-### 📫 Contacto
+### ⚡ Sobre mí
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/dscandil)
-* 📧 david.dosmiltres@gmail.com
-
----
+* 🔭 **Objetivo:** Busco mi primera oportunidad como Desarrollador Full Stack (Prácticas FCT).
+* 🔧 **Mi Superpoder:** Gracias a mi base en **ASIR**, no solo sé programar la web, sino también desplegar el servidor y arreglarlo si falla.
+* 🤝 **Filosofía:** Me encanta el trabajo en equipo y entender
