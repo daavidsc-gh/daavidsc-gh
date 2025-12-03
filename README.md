@@ -10,6 +10,15 @@
 ### 🛠️ Mi Stack Tecnológico
 
 <p align="left">
+  <a href="https://www.java.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" /> 
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" /> 
+  </a>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> 
+  </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> 
   </a>
@@ -22,24 +31,9 @@
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> 
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> 
   </a>
-</p>
-
-<p align="left">
-  <a href="https://www.java.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" /> 
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" /> 
-  </a>
-  <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> 
-  </a>
   <a href="https://kotlinlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> 
   </a>
-</p>
-
-<p align="left">
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" /> 
   </a>
@@ -51,6 +45,9 @@
   </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> 
   </a>
 </p>
 
