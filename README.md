@@ -45,6 +45,6 @@
 ### 📫 Contacto
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/dscandil)
-* 📧 david.dosmiltres@gmail.com
+* 📧 dscandil3@gmail.com
 
 ---
