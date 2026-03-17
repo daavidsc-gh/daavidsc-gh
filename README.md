@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy David Serradilla 👋</h1>
-<h3 align="center">Desarrollador Full Stack Junior | ASIR + DAM</h3>
+<h3 align="center">Desarrollador Full Stack | ASIR + DAM</h3>
 
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=359AF7&center=true&vCenter=true&width=435&lines=Next.js+%2B+NestJS;React+%2B+GraphQL;PostgreSQL+%2B+Prisma;AWS+%2B+Linux" alt="Typing SVG" />
